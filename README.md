@@ -1,4 +1,4 @@
-LogicalExpr:
+LogicalExpr
 ============
 
 Truth Table Generator (Logical Expression Tester)
