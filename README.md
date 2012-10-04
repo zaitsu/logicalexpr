@@ -16,4 +16,4 @@ Copyright (c) 2012 Toshihiko Zaitsu
 
 ## License
 
-WebPutty is licensed under the [MIT](http://www.opensource.org/licenses/mit-license.php "Read more about the MIT license form") license.
+LogicalExpr is licensed under the [MIT](http://www.opensource.org/licenses/mit-license.php "Read more about the MIT license form") license.
