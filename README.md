@@ -1,4 +1,8 @@
-# LogicalExpr: Truth Table Generator (Logical Expression Tester)
+LogicalExpr:
+============
+
+Truth Table Generator (Logical Expression Tester)
+
 
 ### What
 
