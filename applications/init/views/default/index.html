@@ -1,0 +1,15 @@
+{{extend 'layout.html'}}
+
+<div class="well">
+    <label>Generate <a href="http://en.wikipedia.org/wiki/Truth_table">Truth table</a> for your logical expression.</label>
+    <div class="form-inline">
+        <input class="input-xlarge" type="text" id="in" name="e" placeholder="logcal expression..."/>
+        <button class="btn btn-primary" onclick="ajax('{{=URL('createtable')}}',['e'],':eval')">
+            evaluate!
+        </button>
+        <button class="btn" onclick="ajax('{{=URL('echo')}}',[],':eval')">
+            valid examples..
+        </button>
+    </div>
+</div>
+<div id="target"></div>
