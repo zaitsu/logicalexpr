@@ -2,6 +2,7 @@ LogicalExpr
 ============
 
 Truth Table Generator (Logical Expression Tester)
+
 [Demo](http://logicalexpr.appspot.com/)
 
 ## What the what?
